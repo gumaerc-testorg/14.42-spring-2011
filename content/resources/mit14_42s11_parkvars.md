@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 resourcetype: Document
 title: MIT14_42S11_parkvars.pdf
 uid: 4ba998e8-31ac-2ee8-29b2-1fe77179388e

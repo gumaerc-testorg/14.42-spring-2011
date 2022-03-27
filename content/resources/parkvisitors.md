@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 resourcetype: Other
 title: parkvisitors.dta
 uid: 419ff708-d75f-dd9a-f974-8d22420415df

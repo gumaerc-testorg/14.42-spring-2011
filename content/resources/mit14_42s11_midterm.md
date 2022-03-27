@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 resourcetype: Document
 title: Midterm 2011
 uid: fca56f0c-c036-8d2d-9aee-18bc2bbc7845

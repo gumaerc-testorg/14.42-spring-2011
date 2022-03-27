@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 resourcetype: Document
 title: MIT14_42S11_housevar.pdf
 uid: 18f90f28-ec51-8e86-415e-c714ce311e3c
