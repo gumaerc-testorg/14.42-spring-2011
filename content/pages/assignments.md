@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 ---
@@ -29,7 +30,7 @@ FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_42s11_hw1))
+({{< resource_link 919a83c2-140a-f7bf-a97f-764d1243de1f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +39,7 @@ FILES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_42s11_hw2))
+({{< resource_link fe3c8555-a990-3137-6e3a-c035727bfc7a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ FILES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_42s11_hw3))
+({{< resource_link f5ac75d0-eb69-1ac1-c7b4-1ad40e9392c5 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,15 +59,15 @@ FILES
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_42s11_hw4))
+({{< resource_link 9e6212b8-17a5-49b8-bb69-b00a5fb606f8 "PDF" >}})
 
-Housing data ([DTA]({{< baseurl >}}/resources/house))
+Housing data ({{< resource_link ddf67fda-339a-eaa0-9eb5-dfae4268116c "DTA" >}})
 
-Housing variables ([PDF]({{< baseurl >}}/resources/mit14_42s11_housevar))
+Housing variables ({{< resource_link 18f90f28-ec51-8e86-415e-c714ce311e3c "PDF" >}})
 
-Park data ([DTA]({{< baseurl >}}/resources/parkvisitors))
+Park data ({{< resource_link 419ff708-d75f-dd9a-f974-8d22420415df "DTA" >}})
 
-Park variables ([PDF]({{< baseurl >}}/resources/mit14_42s11_parkvars))
+Park variables ({{< resource_link 4ba998e8-31ac-2ee8-29b2-1fe77179388e "PDF" >}})
 
 
 {{< tdclose >}}
@@ -77,7 +78,7 @@ Park variables ([PDF]({{< baseurl >}}/resources/mit14_42s11_parkvars))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_42s11_hw5))
+({{< resource_link d7a6ac45-28da-aa64-ae48-8ab828b69d15 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ Park variables ([PDF]({{< baseurl >}}/resources/mit14_42s11_parkvars))
 Midterm exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_42s11_midterm))
+({{< resource_link fca56f0c-c036-8d2d-9aee-18bc2bbc7845 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
