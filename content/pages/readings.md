@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of readings for each topic of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 8e4c5ec2-5b6e-929e-7f15-da3c6e2d23e3
 ---
