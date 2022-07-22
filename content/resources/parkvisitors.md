@@ -5,6 +5,7 @@ file: /courses/14-42-environmental-policy-and-economics-spring-2011/419ff708d75f
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: parkvisitors.dta
 uid: 419ff708-d75f-dd9a-f974-8d22420415df
 ---
 This resource contains supporting file for homework 4.
-

@@ -5,6 +5,7 @@ file: /courses/14-42-environmental-policy-and-economics-spring-2011/18f90f28ec51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT14_42S11_housevar.pdf
 uid: 18f90f28-ec51-8e86-415e-c714ce311e3c
 ---
 This resource contains description of housing variables.
-

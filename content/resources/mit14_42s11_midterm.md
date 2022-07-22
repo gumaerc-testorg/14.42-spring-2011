@@ -7,6 +7,7 @@ file: /courses/14-42-environmental-policy-and-economics-spring-2011/fca56f0cc036
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Midterm 2011
 uid: fca56f0c-c036-8d2d-9aee-18bc2bbc7845
 ---
 Solutions to a midterm exam consisting of short answer questions on environmental policy and economics, quantitative questions on heterogeneous marginal cost of abatement, and quantitative questions on consumers, producers, and equilibrium.
-
