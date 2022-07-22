@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of readings for each topic of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8e4c5ec2-5b6e-929e-7f15-da3c6e2d23e3
 ---
@@ -139,11 +143,11 @@ Morgenstern, Richard D. "Environmental Taxes: Is There a Double Dividend?" _Envi
 
 Passell, Peter. "When the Benefits are Mostly Modest, What Price Clean Air?" _New York Times_, April 3, 1997, pp. D2.
 
-_The SO2 experiments_
+_The SO{{< sub "2" >}} experiments_
 
 Schmalensee, et al. "An Interim Evaluation of Sulfur Dioxide Emissions Trading." _Journal of Economic Perspectives_ 12, no. 3 (1998): 53-68.
 
-Stavins, Robert N. "What Can We Learn from the Grand Policy Experiment? Lessons from SO2 Allowance Trading." _Journal of Economic Perspectives_ 12, no. 3 (1998): 69-88.
+Stavins, Robert N. "What Can We Learn from the Grand Policy Experiment? Lessons from SO{{< sub "2" >}} Allowance Trading." _Journal of Economic Perspectives_ 12, no. 3 (1998): 69-88.
 
 
 {{< tdclose >}}
