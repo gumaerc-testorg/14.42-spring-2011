@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains description of housing variables.
 file: /courses/14-42-environmental-policy-and-economics-spring-2011/18f90f28ec518e86415ec714ce311e3c_MIT14_42S11_housevar.pdf
+file_size: 49070
 file_type: application/pdf
 learning_resource_types:
 - Assignments
