@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supporting file for homework 4.
-file: /ol-ocw-studio-app/courses/14-42-environmental-policy-and-economics-spring-2011/ddf67fda339aeaa09eb5dfae4268116c_house.dta
+file: /courses/14-42-environmental-policy-and-economics-spring-2011/ddf67fda339aeaa09eb5dfae4268116c_house.dta
 file_size: 264404
 file_type: application/octet-stream
 learning_resource_types:
